@@ -1,4 +1,4 @@
-## Getting Started
+## Teste técnico Target Sistemas
 
 Esse repositório contém a resolução do teste técnico da Target Sistemas.  
 Cada arquivo Java tem como comentário o texto do problema a ser resolvido.  
